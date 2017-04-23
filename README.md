@@ -8,6 +8,7 @@
 
 ## Distributed system papers
 
+### Consensus Algorithm
 [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)
 
 **Goal**: Raft is a consensus algorithm for managing a replicated log.  It produces a result equivalent to (multi-)Paxos, and
