@@ -13,3 +13,5 @@
 
 **Goal**: Raft is a consensus algorithm for managing a replicated log.  It produces a result equivalent to (multi-)Paxos, and
 it is as efficient as Paxos, but its structure is different from Paxos; this makes Raft more understandable than Paxos and also provides a better foundation for building practical systems
+
+[Showcase](http://thesecretlivesofdata.com/raft/)
